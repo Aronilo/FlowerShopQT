@@ -1,4 +1,4 @@
-<h1 align="center">FlowerShoQTp</h1>
+<h1 align="center">FlowerShopQT</h1>
 The work of a flower shop on Qt, the mySQL databases are also connected
 
 ## Приложение написано с использованием QT, а также используется база данных MySQL.
